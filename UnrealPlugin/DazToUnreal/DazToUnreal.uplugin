@@ -44,8 +44,7 @@
 		},
 		{
 			"Name": "MLDeformerFramework",
-			"Enabled": true,
-			"Optional": true
+			"Enabled": true
 		},
 		{
 			"Name": "NNI",
@@ -54,8 +53,7 @@
 		},
 		{
 			"Name": "NeuralMorphModel",
-			"Enabled": true,
-			"Optional": true
+			"Enabled": true
 		},
 		{
 			"Name": "VertexDeltaModel",
